@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Libre+Baskerville&family=Roboto+Mono:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400;1,500;1,700&family=Tilt+Prism&display=swap");
+body {
+  background-color: black;
+}
+.container {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Borel", cursive;
+}
+.image {
+  width: 100%;
+  border: 5px solid white;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+p {
+  text-align: center;
+}
